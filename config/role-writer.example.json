@@ -1,0 +1,11 @@
+{
+  "GameBin": "${COSMOTEER_GAME_BIN}",
+  "ShipLibraryRoot": "${COSMOTEER_SAVED_SHIPS}",
+  "DirectionalDataFile": "${COSMOTEER_UTILS_HOME}/analysis/directional_set_comparison.json",
+  "OutputDirectory": "${COSMOTEER_UTILS_HOME}/reports/role-write",
+  "BackupDirectory": "${COSMOTEER_UTILS_HOME}/backups/ship-backups",
+  "Targets": [
+    "${COSMOTEER_ROLE_TARGET_1}",
+    "${COSMOTEER_ROLE_TARGET_2}"
+  ]
+}

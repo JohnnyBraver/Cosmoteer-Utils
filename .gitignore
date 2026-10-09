@@ -1,0 +1,16 @@
+# Local game/ship files and accidental runtime outputs
+/outputs/
+/**/*.ship.png
+/**/*.codex-role-write.tmp
+/**/ship_backups/
+
+# .NET and Python build products
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+
+# Node dependencies and local environment files
+node_modules/
+.env
+.venv/
